@@ -1,0 +1,256 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Conjunctions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Choose the correct coordinating conjunction: \"She was tired, _____ she kept working.\"",
+          "options": [
+            "but",
+            "because",
+            "if",
+            "although"
+          ],
+          "answer": 0,
+          "explanation": "\"But\" shows the contrast between being tired and continuing to work."
+        },
+        {
+          "questionNo": 2,
+          "question": "Select the correct subordinating conjunction: \"He didn’t go out _____ it was raining.\"",
+          "options": [
+            "and",
+            "but",
+            "because",
+            "or"
+          ],
+          "answer": 2,
+          "explanation": "\"Because\" provides the reason for not going out, which is the rain."
+        },
+        {
+          "questionNo": 3,
+          "question": "\"Because\" is a coordinating conjunction.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 1,
+          "explanation": "\"Because\" is a subordinating conjunction, not a coordinating one."
+        },
+        {
+          "questionNo": 4,
+          "question": "\"And\" can be used to join two independent clauses.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 0,
+          "explanation": "\"And\" is a coordinating conjunction used to connect two independent clauses."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which conjunction fits the sentence: \"I’ll call you _____ I get home.\"",
+          "options": [
+            "until",
+            "when",
+            "so",
+            "and"
+          ],
+          "answer": 1,
+          "explanation": "\"When\" indicates the time at which the calling will happen."
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blank: \"I stayed home _____ it was raining.\"",
+          "options": [
+            "but",
+            "because",
+            "or",
+            "and"
+          ],
+          "answer": 1,
+          "explanation": "\"Because\" gives the reason for staying home."
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blank with the appropriate conjunction: \"He studies hard, _____ he always gets good grades.\"",
+          "options": [
+            "so",
+            "if",
+            "although",
+            "unless"
+          ],
+          "answer": 0,
+          "explanation": "\"So\" shows the result of studying hard, which is getting good grades."
+        },
+        {
+          "questionNo": 8,
+          "question": "Choose the correct subordinating conjunction: \"_____ you finish your homework, you can go out to play.\"",
+          "options": [
+            "But",
+            "If",
+            "And",
+            "Or"
+          ],
+          "answer": 1,
+          "explanation": "\"If\" introduces a condition that must be met before going out to play."
+        },
+        {
+          "questionNo": 9,
+          "question": "Choose the right coordinating conjunction: \"You can have tea _____ coffee.\"",
+          "options": [
+            "and",
+            "or",
+            "because",
+            "but"
+          ],
+          "answer": 1,
+          "explanation": "\"Or\" offers a choice between tea and coffee."
+        },
+        {
+          "questionNo": 10,
+          "question": "Select the appropriate conjunction: \"She sings _____ she plays the piano.\"",
+          "options": [
+            "and",
+            "but",
+            "although",
+            "because"
+          ],
+          "answer": 0,
+          "explanation": "\"And\" adds an activity that she performs."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which conjunction fits the sentence: \"I will wait here _____ you come back.\"",
+          "options": [
+            "although",
+            "because",
+            "until",
+            "but"
+          ],
+          "answer": 2,
+          "explanation": "\"Until\" shows the duration for which the waiting will occur."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank with the right conjunction: \"He missed the bus, _____ he walked to school.\"",
+          "options": [
+            "so",
+            "if",
+            "although",
+            "because"
+          ],
+          "answer": 0,
+          "explanation": "\"So\" indicates the result of missing the bus, which is walking to school."
+        },
+        {
+          "questionNo": 13,
+          "question": "Identify the subordinating conjunction in the sentence: \"She couldn't attend the party because she had to work late.\"",
+          "options": [
+            "Attend",
+            "Party",
+            "Because",
+            "Had"
+          ],
+          "answer": 2,
+          "explanation": "\"Because\" is the subordinating conjunction introducing the dependent clause \"because she had to work late,\" which provides the reason for the independent clause \"She couldn't attend the party.\""
+        },
+        {
+          "questionNo": 14,
+          "question": "Which of the following is a coordinating conjunction?",
+          "options": [
+            "Whereas",
+            "Despite",
+            "Yet",
+            "Unless"
+          ],
+          "answer": 2,
+          "explanation": "\"Yet\" is a coordinating conjunction used to introduce a contrast or unexpected situation."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which of the following is not a coordinating conjunction?",
+          "options": [
+            "For",
+            "But",
+            "Yet",
+            "Before"
+          ],
+          "answer": 3,
+          "explanation": "\"Before\" is not a coordinating conjunction. It is a subordinating conjunction used to introduce a dependent clause that provides information about time or sequence."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which of the following is a coordinating conjunction?",
+          "options": [
+            "While",
+            "Until",
+            "Nor",
+            "Since"
+          ],
+          "answer": 2,
+          "explanation": "\"Nor\" is a coordinating conjunction used to introduce a negative alternative or contrast between two elements or clauses."
+        },
+        {
+          "questionNo": 17,
+          "question": "Identify the subordinating conjunction in the sentence: \"She decided to stay home because she was feeling unwell.\"",
+          "options": [
+            "Decided",
+            "Stay",
+            "Because",
+            "Was"
+          ],
+          "answer": 2,
+          "explanation": "\"Because\" is the subordinating conjunction introducing the dependent clause \"because she was feeling unwell,\" which provides the reason for the independent clause \"She decided to stay home.\""
+        },
+        {
+          "questionNo": 18,
+          "question": "Which of the following is a subordinating conjunction?",
+          "options": [
+            "Yet",
+            "For",
+            "Whenever",
+            "For"
+          ],
+          "answer": 2,
+          "explanation": "\"Whenever\" is a subordinating conjunction used to introduce a dependent clause that provides information about a specific time or condition."
+        },
+        {
+          "questionNo": 19,
+          "question": "Identify the highlighted conjunction in the sentence: \"I enjoy playing soccer, but I also like to swim.\"",
+          "options": [
+            "Subordinating",
+            "Coordinating"
+          ],
+          "answer": 1,
+          "explanation": "\"But\" is the coordinating conjunction joining the two independent clauses \"I enjoy playing soccer\" and \"I also like to swim.\""
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the sentence that correctly uses a subordinating conjunction.",
+          "options": [
+            "I'll go to the party if you want to come along.",
+            "She was tired, although she had a good night's sleep.",
+            "We can go to the park or the beach, whichever you prefer.",
+            "I like to read books, and my brother prefers to watch movies."
+          ],
+          "answer": 0,
+          "explanation": "The subordinating conjunction \"if\" is correctly used to introduce the dependent clause \"you want to come along.\""
+        },
+        {
+          "questionNo": 21,
+          "question": "She wanted to visit her friend, _____ she was too tired to drive.",
+          "options": [
+            "for",
+            "nor",
+            "yet",
+            "so"
+          ],
+          "answer": 2,
+          "explanation": "\"Yet\" is used to introduce a contrasting idea, similar to \"but.\""
+        }
+      ]
+    }
+  ]
+}
